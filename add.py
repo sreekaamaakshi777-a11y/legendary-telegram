@@ -1,0 +1,8 @@
+x = int(input("Input x value: "))
+y = int(input("Input y value: "))
+print("x+y = ", x+y)
+print("x-y = ", x-y)
+print("x*y = ", x*y)
+print("x**y = ", x**y)
+print("x/y = ", x/y)
+print("x//y = ", x//y)
